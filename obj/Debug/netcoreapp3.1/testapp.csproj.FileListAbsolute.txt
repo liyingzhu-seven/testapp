@@ -1,0 +1,13 @@
+G:\学习\大三学习\大三上学科\C#\testapp\bin\Debug\netcoreapp3.1\testapp.exe
+G:\学习\大三学习\大三上学科\C#\testapp\bin\Debug\netcoreapp3.1\testapp.deps.json
+G:\学习\大三学习\大三上学科\C#\testapp\bin\Debug\netcoreapp3.1\testapp.runtimeconfig.json
+G:\学习\大三学习\大三上学科\C#\testapp\bin\Debug\netcoreapp3.1\testapp.runtimeconfig.dev.json
+G:\学习\大三学习\大三上学科\C#\testapp\bin\Debug\netcoreapp3.1\testapp.dll
+G:\学习\大三学习\大三上学科\C#\testapp\bin\Debug\netcoreapp3.1\testapp.pdb
+G:\学习\大三学习\大三上学科\C#\testapp\obj\Debug\netcoreapp3.1\testapp.csprojAssemblyReference.cache
+G:\学习\大三学习\大三上学科\C#\testapp\obj\Debug\netcoreapp3.1\testapp.AssemblyInfoInputs.cache
+G:\学习\大三学习\大三上学科\C#\testapp\obj\Debug\netcoreapp3.1\testapp.AssemblyInfo.cs
+G:\学习\大三学习\大三上学科\C#\testapp\obj\Debug\netcoreapp3.1\testapp.csproj.CoreCompileInputs.cache
+G:\学习\大三学习\大三上学科\C#\testapp\obj\Debug\netcoreapp3.1\testapp.dll
+G:\学习\大三学习\大三上学科\C#\testapp\obj\Debug\netcoreapp3.1\testapp.pdb
+G:\学习\大三学习\大三上学科\C#\testapp\obj\Debug\netcoreapp3.1\testapp.genruntimeconfig.cache
